@@ -1,4 +1,4 @@
-name: Run Telegram Bot (5h50m per run)
+1name: Run Telegram Bot (5h50m per run)
 
 on:
   schedule:
